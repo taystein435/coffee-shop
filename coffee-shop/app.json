@@ -1,6 +1,8 @@
 {
   "expo": {
-    "name": "frontend",
+    "name": "Coffee Shop",
+    "slug": "coffee-shop",
+    "version": "1.0.0",
     "slug": "frontend",
     "version": "1.0.0",
     "orientation": "portrait",
